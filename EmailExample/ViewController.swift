@@ -29,5 +29,6 @@ class ViewController: UIViewController, CellSelectedDelegate {
         senderLabel.text = email.sender
         contentsLabel.text = email.contents
     }
+    
 }
 

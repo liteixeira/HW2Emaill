@@ -64,7 +64,7 @@
             </objects>
             <point key="canvasLocation" x="301.60000000000002" y="170.46476761619192"/>
         </scene>
-        <!--Email-->
+        <!--ldemesqu@asu.edu-->
         <scene sceneID="qbf-cS-bGn">
             <objects>
                 <tableViewController clearsSelectionOnViewWillAppear="NO" id="aQd-eh-QS2" customClass="MenuTVC" customModule="EmailExample" customModuleProvider="target" sceneMemberID="viewController">
@@ -96,7 +96,7 @@
                             <outlet property="delegate" destination="aQd-eh-QS2" id="fyb-t3-X8u"/>
                         </connections>
                     </tableView>
-                    <navigationItem key="navigationItem" title="Email" id="zem-jU-hiM"/>
+                    <navigationItem key="navigationItem" title="ldemesqu@asu.edu" id="zem-jU-hiM"/>
                     <connections>
                         <segue destination="L9c-r4-5g4" kind="show" identifier="cellSelected" id="yNd-pB-5dv"/>
                     </connections>
@@ -141,7 +141,7 @@
                         </prototypes>
                         <connections>
                             <outlet property="dataSource" destination="L9c-r4-5g4" id="n8b-Ne-ZmE"/>
-                            <outlet property="delegate" destination="L9c-r4-5g4" id="nUy-yI-OWk"/>
+                            <outlet property="delegate" destination="L9c-r4-5g4" id="67K-d0-7wa"/>
                         </connections>
                     </tableView>
                 </tableViewController>
